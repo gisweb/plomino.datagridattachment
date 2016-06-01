@@ -1,0 +1,5 @@
+====================
+plomino.datagridattachment
+====================
+
+User documentation
